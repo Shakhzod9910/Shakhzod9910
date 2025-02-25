@@ -18,7 +18,7 @@ I'm a frontend developer with experience in building modern, responsive, and use
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Shakhzod9910&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shakhzod9910&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
